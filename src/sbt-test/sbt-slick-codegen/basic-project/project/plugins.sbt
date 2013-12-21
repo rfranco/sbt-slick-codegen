@@ -1,0 +1,1 @@
+addSbtPlugin("sbt" %% "sbt-slick-codegen" % "0.1.0-SNAPSHOT")
